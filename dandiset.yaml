@@ -7,6 +7,9 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
+acknowledgement: The authors would like to acknowledge Drs. Allen S. Kiester, Mark
+  A. Keppler, Bennett L. Ibey, and Joel N. Bixler who designed and assembled the pulsed
+  laser strobe imaging system
 assetsSummary:
   approach: []
   dataStandard:
@@ -14,19 +17,18 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 636288308
-  numberOfFiles: 11
-  numberOfSubjects: 1
+  numberOfBytes: 10631548786
+  numberOfFiles: 181
+  numberOfSubjects: 13
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Silkuniene, Giedre; Kim, Vitalii ; Semenov, Iurii; Pakhomov, Andrei (2024)
-  Excitation and polarization of isolated neurons by high-frequency sine waves in
-  the context of temporal interference stimulation III (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/001273/draft
+citation: Silkuniene, Giedre; Kim, Vitalii ; Semenov, Iurii; Pakhomov, Andrei (2025)
+  Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment with
+  the Electric Field (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001273/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -39,6 +41,8 @@ contributor:
 - awardNumber: 5R21EY034803
   includeInCitation: false
   name: National Institutes of Health
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
 - identifier: 0000-0003-0699-5582
   includeInCitation: true
@@ -53,8 +57,12 @@ contributor:
   name: Pakhomov, Andrei
   schemaKey: Person
 dateCreated: '2024-12-04T14:40:16.101764+00:00'
-description: Excitation and polarization of isolated neurons by high-frequency sine
-  waves in the context of temporal interference stimulation III
+description: This experimental series aimed to visualize and characterize plasma membrane
+  (PM) polarization dynamics in hippocampal neurons exposed to 2 µs electric pulses,
+  focusing on the influence of neuronal shape and position within the applied electric
+  field. Neurons were pre-loaded with FluoVolt potentiometric dye, and pulsed laser
+  strobe microscopy was employed to capture changes in membrane polarization. This
+  study was partially supported by the NIH Brain Initiative (NEI R21EY034803).
 ethicsApproval: []
 id: DANDI:001273/draft
 identifier: DANDI:001273
@@ -63,8 +71,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001273/versions/draft/assets/
-name: Excitation and polarization of isolated neurons by high-frequency sine waves
-  in the context of temporal interference stimulation III
+name: Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment
+  with the Electric Field
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
