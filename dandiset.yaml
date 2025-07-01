@@ -57,6 +57,7 @@ contributor:
   name: Pakhomov, Andrei
   schemaKey: Person
 dateCreated: '2024-12-04T14:40:16.101764+00:00'
+datePublished: '2025-07-01T16:24:22.565311+00:00'
 description: This experimental series aimed to visualize and characterize plasma membrane
   (PM) polarization dynamics in hippocampal neurons exposed to 2 µs electric pulses,
   focusing on the influence of neuronal shape and position within the applied electric
@@ -66,19 +67,34 @@ description: This experimental series aimed to visualize and characterize plasma
 ethicsApproval: []
 id: DANDI:001273/draft
 identifier: DANDI:001273
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001273/versions/draft/assets/
 name: Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment
   with the Electric Field
-protocol: []
-relatedResource: []
+publishedBy:
+  endDate: '2025-07-01T16:24:22.565311+00:00'
+  id: urn:uuid:d9871c25-38fa-4713-96e7-9f902ccd62fd
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-01T16:24:22.565311+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:dd5adf31-2744-4373-947a-709e94357828
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
+relatedResource:
+- identifier: doi.org/10.1016/j.xcrp.2025.102660
+  name: Excitation and polarization of isolated neurons by high-frequency sine waves
+    for temporal interference stimulation
+  relation: dcite:IsPublishedIn
+  schemaKey: Resource
+  url: https://doi.org/10.1016/j.xcrp.2025.102660
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001273/draft
 version: draft
 wasGeneratedBy:
