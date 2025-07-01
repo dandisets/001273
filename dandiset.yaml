@@ -28,7 +28,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii ; Semenov, Iurii; Pakhomov, Andrei (2025)
   Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment with
-  the Electric Field (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001273/draft
+  the Electric Field (Version 0.250701.1624) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001273/0.250701.1624
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -64,13 +64,14 @@ description: This experimental series aimed to visualize and characterize plasma
   field. Neurons were pre-loaded with FluoVolt potentiometric dye, and pulsed laser
   strobe microscopy was employed to capture changes in membrane polarization. This
   study was partially supported by the NIH Brain Initiative (NEI R21EY034803).
+doi: 10.48324/dandi.001273/0.250701.1624
 ethicsApproval: []
-id: DANDI:001273/draft
+id: DANDI:001273/0.250701.1624
 identifier: DANDI:001273
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001273/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001273/0.250701.1624/assets.yaml
 name: Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment
   with the Electric Field
 publishedBy:
@@ -95,8 +96,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001273/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001273/0.250701.1624
+version: 0.250701.1624
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
