@@ -56,8 +56,13 @@ contributor:
   includeInCitation: true
   name: Pakhomov, Andrei
   schemaKey: Person
+- awardNumber: 1R21EY034258
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2024-12-04T14:40:16.101764+00:00'
-datePublished: '2025-07-01T16:24:22.565311+00:00'
+datePublished: '2025-08-05T13:56:51.484362+00:00'
 description: This experimental series aimed to visualize and characterize plasma membrane
   (PM) polarization dynamics in hippocampal neurons exposed to 2 µs electric pulses,
   focusing on the influence of neuronal shape and position within the applied electric
@@ -74,13 +79,13 @@ manifestLocation:
 name: Kinetics of Membrane Charging and Its Dependence on Neuron Shape and Alignment
   with the Electric Field
 publishedBy:
-  endDate: '2025-07-01T16:24:22.565311+00:00'
-  id: urn:uuid:d9871c25-38fa-4713-96e7-9f902ccd62fd
+  endDate: '2025-08-05T13:56:51.484362+00:00'
+  id: urn:uuid:0f84553e-3c2b-48c4-b059-a99edf639361
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-07-01T16:24:22.565311+00:00'
+  startDate: '2025-08-05T13:56:51.484362+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:dd5adf31-2744-4373-947a-709e94357828
+  - id: urn:uuid:bcf00c0e-c2a4-4cac-93c0-c7f0b8af68f8
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -100,4 +105,7 @@ version: draft
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
+  schemaKey: Project
+- identifier: 1R21EY034258
+  name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
   schemaKey: Project
